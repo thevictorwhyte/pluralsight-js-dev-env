@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 82767129,
+      "firstName": "Mohammad",
+      "lastName": "Price",
+      "email": "Lauriane98@gmail.com"
+    },
+    {
+      "id": 75205171,
+      "firstName": "Kelton",
+      "lastName": "Cremin",
+      "email": "Melvina.Oberbrunner@yahoo.com"
+    },
+    {
+      "id": 38299260,
+      "firstName": "Sadie",
+      "lastName": "Renner",
+      "email": "Nathanial.Steuber39@hotmail.com"
+    },
+    {
+      "id": 97250452,
+      "firstName": "Jessy",
+      "lastName": "Kuhic",
+      "email": "Luella_Johnson37@gmail.com"
+    },
+    {
+      "id": 73900636,
+      "firstName": "Saige",
+      "lastName": "Wyman",
+      "email": "Renee53@hotmail.com"
+    }
+  ]
+}
